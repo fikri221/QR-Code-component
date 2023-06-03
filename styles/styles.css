@@ -108,6 +108,5 @@ Classes
   .card-container {
     /* Updated CSS properties for mobile */
     max-width: 350px;
-    margin-top: 50%;
   }
 }
